@@ -1,6 +1,6 @@
 # Fortnite Queue Loop by Krstic
 
-This is a separate AutoHotkey v2 macro limited to 1920×1080. It searches the screenshots for lobby **PLAY** and results **PLAY AGAIN**, including the shifted position with **STAY WITH TEAM**. It ignores that team button.
+This is a separate AutoHotkey v2 macro limited to 1920×1080. It searches the screenshots for lobby **PLAY** and results **PLAY AGAIN**, including the shifted position with **STAY WITH TEAM**. It ignores that team button.It also moves randomly so u never get banned for being AFK. 
 
 ## Run it
 
